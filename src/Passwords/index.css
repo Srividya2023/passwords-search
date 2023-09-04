@@ -1,0 +1,25 @@
+.delete-img{
+    width:20px;
+    height:20px;
+}
+.each-list-props{
+    list-style-type: none;
+    display: flex;
+    
+    align-items: center;
+    border: 1px solid #f8fafc;
+    margin:0px;
+    width:100%;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+.delete-btn{
+    background-color: transparent;
+    border: none;
+   
+}
+.star-img{
+    width:80px;
+    height:10px;
+}
